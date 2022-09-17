@@ -42,7 +42,7 @@ async def main():
 	
 	while(1):
 		for link in links:
-			sleep(5)
+			sleep(2)
 			t:bool=False
 			count:int=0
 			limit:int=5

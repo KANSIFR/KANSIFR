@@ -1,1 +1,1 @@
-worker: python tabligh.py
+worker: python tabligh(3).py

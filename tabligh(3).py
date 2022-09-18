@@ -4,10 +4,10 @@ from time import sleep
 import asyncio
 # rubpy
 
-bot = Rubika("ohivsacsvubfkboddnoxdbfatqlcvken")
+bot = Rubika("oyiqmgltkjfuygytisaashtszuemyint")")
 channel_guid : str = "c0Ee9X09008b057804dadf8f941e305a"
 # داخل channel_guid شناسه‌ی کانال لینکدونی که ربات توش عضوه رو باید بزنید تا پیام هاش رو دریافت کنه و لینکارو برداره برای تبلیغ ها
-post_link: str = "https://rubika.ir/DIXCANSIFER/CIBBAIBBDACCFII"
+post_link: str = "https://rubika.ir/DIXCANSIFER/CIBAHAAIIBEGFII"
 # داخل post_link لینک پستتونو میزارین
 
 get_infos: list = [] # get post info
